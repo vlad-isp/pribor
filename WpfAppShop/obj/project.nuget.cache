@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "QgKdONNfa9AGEnyLuUi2hMaBdcUpBqtvq1ETBmqzVWYsSZ3EK86vqlPdCM4bbL7F5ZkxzyiPyYlgtv/BREPxkA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Vlad\\Desktop\\WpfAppShop\\WpfAppShop\\WpfAppShop.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Не удалось загрузить индекс службы для источника https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.EntityFrameworkCore"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Не удалось загрузить индекс службы для источника https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer"
+    }
+  ]
+}
